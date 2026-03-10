@@ -1,0 +1,7 @@
+{
+  "name": "testi",
+  "version": "1.2",
+  "scripts": {
+    "build": "cordova build android"
+  }
+}
